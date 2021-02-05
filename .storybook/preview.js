@@ -1,0 +1,1 @@
+export const decorators= [(Story)=><div style={{display:'flex', justifyContent:'center'}}><Story/></div>]
